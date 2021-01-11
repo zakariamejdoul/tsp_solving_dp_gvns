@@ -41,10 +41,7 @@ Please choose one of these methods :
 OPTIMAL POLICY : [3, 1, 5, 4, 2, 3]
 OPTIMAL VALUE : 32
 
-
-
 Generated coordinates of cities : 
-
 [[32 33]
  [23 32]
  [38 21]
