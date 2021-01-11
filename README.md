@@ -14,7 +14,7 @@ git clone https://github.com/zakariamejdoul/tsp_solving_dp_gvns.git
 <li>Put the instance path (you can use the instances provided in the folder named 'instances').</li>
 <li>Put your choice : '1' for dynamic programming method and '2' for GVNS metaheuristic method.</li>
 <li>Put your source city (the numbering order of cities starts with 1).</li>
-<li>If you have selected the choice 2 (GVNS method) you must provide the maximum execution time of the program in minutes.</li>
+<li>If you have selected the choice 2 (GVNS method) you must provide the maximum execution time<br/> of the program in minutes.</li>
 <li>Enjoy the results !</li>
 </ol>
 <br/><br/>
