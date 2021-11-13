@@ -17,7 +17,8 @@ git clone https://github.com/zakariamejdoul/tsp_solving_dp_gvns.git
 <li>If you have selected the choice 2 (GVNS method) you must provide the maximum execution time<br/> of the program in minutes.</li>
 <li>Enjoy the results !</li>
 </ol>
-<br/><br/>
+<br/>
+<br/>
 
 > **Results include the optimal path, the optimal distance and the target plot.**
 
